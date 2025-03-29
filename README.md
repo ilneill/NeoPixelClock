@@ -32,10 +32,9 @@ So far, what I have written has been tested using an Arduino Pro Mini (ATmega168
 There are a few things I want to do...
 
 * Test the NeoPixel clock on an Arduino Mega.
-
-* DS1307 RTC used to retain the time while off.
-* AT24C32 EEPROM to track DS1307 accuracy/drift?
-* DS18B20 Temperature Sensor too... with an LEDC68 7-segment LED display module.
+* Add a DS1307 RTC to retain the time while off.
+* Use an AT24C32 EEPROM to track DS1307 accuracy/drift?
+* Add a DS18B20 Temperature Sensor too... with an LEDC68 7-segment LED display module.
 
 Also, do let me know if you find a problem or think of any other improvements!
 

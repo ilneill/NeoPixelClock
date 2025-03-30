@@ -27,6 +27,13 @@ So far, what I have written has been tested using an Arduino Pro Mini (ATmega168
 ![An Arduino Mini Pro (ATmega168P)](images/ArduinoMiniPro.jpg)
 
 
+## The NeoPixel Rings
+
+I bought a bunch of these rings to play with and I soldered some header pins to the pads on the backside to allow me to easily connect them to a breadboard.
+
+![12 Pixel NeoPixel Ring - Front and Rear](images/NeoPixelRing-Front+Back.jpg)
+
+
 ## ToDo
 
 There are a few things I want to do...
